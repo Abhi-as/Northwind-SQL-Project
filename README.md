@@ -19,7 +19,7 @@ This project involves SQL practice using the Northwind sample database. The goal
   - `employees`
   - `employee_territories`
   - `order_details`
-  - `orders`'
+  - `orders`
   - `products`
   - `regions`
   - `shippers`
